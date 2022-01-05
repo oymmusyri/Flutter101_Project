@@ -1,16 +1,6 @@
-# project_no_1
+# Flutter_project_no_1
+## challenge
 
-A new Flutter project.
+### Build an interface similar to this screen. Use the Column, Row, Container and Text elements.
+![Flutter101_project](https://user-images.githubusercontent.com/60525103/148231122-6a67fc56-9fc5-46ff-b4d9-adea02db8bdf.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
